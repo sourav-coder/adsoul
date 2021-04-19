@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./Home";
 import Appdata from "./Appdata"
 import "./css/style.css";
-import { BrowserRouter as Router, Route,Switch } from "react-router-dom";
+import { HashRouter as Router, Route,Switch } from "react-router-dom";
 
 const App = () => {
   return (

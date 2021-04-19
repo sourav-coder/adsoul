@@ -2,7 +2,7 @@
   "name": "adsoul",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sourav-coder.github.io/adsoul",
+  "homepage": "https://sourav-coder.github.io/adsoul",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.10",
