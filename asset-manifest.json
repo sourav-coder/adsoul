@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/adsoul/static/css/main.aa28cd20.chunk.css",
-    "main.js": "/adsoul/static/js/main.b06bf18f.chunk.js",
-    "main.js.map": "/adsoul/static/js/main.b06bf18f.chunk.js.map",
+    "main.css": "/adsoul/static/css/main.c0c4d9a8.chunk.css",
+    "main.js": "/adsoul/static/js/main.65d55764.chunk.js",
+    "main.js.map": "/adsoul/static/js/main.65d55764.chunk.js.map",
     "runtime-main.js": "/adsoul/static/js/runtime-main.d5fd2d4f.js",
     "runtime-main.js.map": "/adsoul/static/js/runtime-main.d5fd2d4f.js.map",
     "static/js/2.e33c7fb7.chunk.js": "/adsoul/static/js/2.e33c7fb7.chunk.js",
     "static/js/2.e33c7fb7.chunk.js.map": "/adsoul/static/js/2.e33c7fb7.chunk.js.map",
     "index.html": "/adsoul/index.html",
-    "static/css/main.aa28cd20.chunk.css.map": "/adsoul/static/css/main.aa28cd20.chunk.css.map",
+    "static/css/main.c0c4d9a8.chunk.css.map": "/adsoul/static/css/main.c0c4d9a8.chunk.css.map",
     "static/js/2.e33c7fb7.chunk.js.LICENSE.txt": "/adsoul/static/js/2.e33c7fb7.chunk.js.LICENSE.txt",
     "static/media/asset1.6ce40959.svg": "/adsoul/static/media/asset1.6ce40959.svg",
     "static/media/icon1.75892e65.svg": "/adsoul/static/media/icon1.75892e65.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5fd2d4f.js",
     "static/js/2.e33c7fb7.chunk.js",
-    "static/css/main.aa28cd20.chunk.css",
-    "static/js/main.b06bf18f.chunk.js"
+    "static/css/main.c0c4d9a8.chunk.css",
+    "static/js/main.65d55764.chunk.js"
   ]
 }
