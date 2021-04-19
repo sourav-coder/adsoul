@@ -8,7 +8,7 @@ import icon4 from "../image/icon4.svg";
 
 
 
-
+// home Component
 export default function Home() {
   return (
     <div className="row">

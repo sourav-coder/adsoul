@@ -2,16 +2,20 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { AppBar, Toolbar, Typography } from "@material-ui/core";
 
+
+
+// appdata 
 export default function Appdata(props) {
   const [comp, setData] = React.useState([]);
 
+
   console.log(props.match);
+  
+  // get request 
   useEffect(() => {
     fetch("https://api.npoint.io/d734975d2aee62d197ef/" + props.match.params.id)
       .then((res) => res.json())
       .then((result) => {
-        console.log(result);
-
         setData(result);
       });
   }, []);

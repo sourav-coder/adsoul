@@ -220,7 +220,7 @@ margin-top: 8px;
     color: #5b6d5b;
 }
 
-@media (min-width:320px) and (max-width:600px){
+@media (min-width:320px) and (max-width:760px){
 
 
 
@@ -245,6 +245,10 @@ margin-top: 8px;
     .Appheader .card p{
         left:31%;
     }
+
+    .features .row .col-md-6 {
+        text-align: center;
+    }
 }
 
 @media (min-width:768px) and (max-width:1024px){
@@ -255,6 +259,7 @@ margin-top: 8px;
     .Appstation .applist th{
         font-size: 12px;
     }
+    
     
     
     

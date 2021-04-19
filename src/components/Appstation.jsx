@@ -2,6 +2,8 @@ import React from "react";
 import { Link} from "react-router-dom";
 import names from "../names";
 
+
+// Appstation - list all apps
 export default function Appstation() {
 
  
@@ -14,6 +16,7 @@ export default function Appstation() {
 
       <div className="applist">
         {names.map(function (element, index) {
+          // resizing the names 
           var s=element.appName.split('-')
           return (
             <div class="card">
@@ -37,6 +40,7 @@ export default function Appstation() {
                   </tr>
                 </table>
                 
+                {/* calling the Appdata Component */}
                 <Link to={"/Appdata/"+element.id+"/"+element.appName+"/"+element.publisherName}>
                   <i class="fas fa-arrow-right"></i>
                 </Link>
