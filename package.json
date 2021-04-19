@@ -1,5 +1,5 @@
 {
-  "homepage": "http://sourav-coder.github.io/adsoul",
+  "homepage": "http://sourav-coder.github.io/",
   "name": "adsoul",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
